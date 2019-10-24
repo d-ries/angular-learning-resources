@@ -33,8 +33,8 @@ Everything you need to learn in chronological order to become a professional Ang
 # ⇒ Intermediate
 
 ### Reactive programming - RxJS:
-- [What is RxJS](https://css-tricks.com/animated-intro-rxjs)
-- [The introduction to reactive programming with RxJS](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Introduction to RxJS - RxJS Primer](https://www.learnrxjs.io/concepts/rxjs-primer.html)
+- [The introduction to reactive programming with RxJS](https://www.learnrxjs.io/)
 - [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
 - [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
 - [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/)
@@ -52,6 +52,7 @@ Everything you need to learn in chronological order to become a professional Ang
 # ⇒ Advanced
 
 ### State management:
+- [Simple and powerful state management with only Services and RxJS (for 90% of cases, this method of state management is more than enough)](https://dev.to/avatsaev/simple-state-management-in-angular-with-only-services-and-rxjs-41p8)
 - [NGRX - Angular state management library](https://github.com/ngrx/platform)
 - [Quick intro to Redux style state management with NGRX](https://www.youtube.com/watch?v=f97ICOaekNU)
 - [State management with NGRX tutorial](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
@@ -83,6 +84,8 @@ Everything you need to learn in chronological order to become a professional Ang
 
 
 # Useful Blogs / Video courses / Youtube Channels / Example apps
+
+<a href="https://ultimatecourses.com/courses/angular/ref/azero79/" title="Ultimate Courses"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" alt="Ultimate Courses" /></a>
 
 - [Angular Udemy video Course from, beginner to Pro level (~$10)](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Angular Firebase - Quick short tutorials on advanced topics](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
